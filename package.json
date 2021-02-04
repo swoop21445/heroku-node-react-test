@@ -1,0 +1,19 @@
+{
+  "name": "heroku_test",
+  "version": "1.0.0",
+  "description": "a test for heroku and node with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swoop21445/heroku-node-react-test.git"
+  },
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swoop21445/heroku-node-react-test/issues"
+  },
+  "homepage": "https://github.com/swoop21445/heroku-node-react-test#readme"
+}
